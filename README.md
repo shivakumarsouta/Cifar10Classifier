@@ -4,6 +4,12 @@ A lightweight web application built with **Streamlit** that classifies images in
 
 ---
 
+## 🌐 Live
+
+Access it [here](https://cifar10classifier.streamlit.app)
+
+---
+
 ## ✅ Features
 
 * Upload any image and predict its CIFAR-10 class.
@@ -100,6 +106,12 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for full 
 ## 🙏 Acknowledgements
 
 * The CIFAR-10 Dataset
+
+--- 
+
+## 📫 Connect
+
+[Mail](mailto:shivakumarsouta18@gmail.com) | [LinkedIn](https://linkedin.com/in/shivakumarsouta) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
 
 ---
 
