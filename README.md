@@ -4,12 +4,6 @@ A lightweight web application built with **Streamlit** that classifies images in
 
 ---
 
-## 🌐 Live
-
-Access it [here](https://cifar10classifier.streamlit.app)
-
----
-
 ## ✅ Features
 
 * Upload any image and predict its CIFAR-10 class.
