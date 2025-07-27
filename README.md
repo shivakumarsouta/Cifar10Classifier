@@ -38,7 +38,7 @@ Cifar10Classifier/
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shivkumar005/Cifar10Classifier.git
+git clone https://github.com/shivakumarsouta/Cifar10Classifier.git
 cd Cifar10Classifier
 ```
 
